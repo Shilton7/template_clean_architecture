@@ -10,4 +10,8 @@
     <ProjectReference Include="..\Template.Infrastructure\Template.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="IoC\" />
+  </ItemGroup>
+
 </Project>
